@@ -23,4 +23,4 @@ Prefabs of UI elements are instantiated as normal using the Instantiate method. 
 
 Add Scenes to "Scenes in Build" through File > Build Settings (drag to list)
 
-[ExecuteInEditMode] allows you to run scripts in edit mode
+`[ExecuteInEditMode]` allows you to run scripts in edit mode
